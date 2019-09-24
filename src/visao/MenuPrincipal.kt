@@ -1,0 +1,5 @@
+package visao
+
+class MenuPrincipal {
+
+}
